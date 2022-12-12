@@ -1,0 +1,7 @@
+falcon
+requests
+msgpack
+pandas
+scikit-learn
+numpy
+spaczz

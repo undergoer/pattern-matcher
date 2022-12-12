@@ -1,0 +1,60 @@
+diabetes
+diabetic
+diabetes mellitus
+DM
+insulin-dependent diabetes mellitus
+insulin dependent diabetes mellitus
+IDDM
+non-insulin-dependent diabetes mellitus
+non-insulin dependent diabetes mellitus
+non-insulin dependent diabetes mellitus
+noninsulin dependent diabetes mellitus
+NIDDM
+type 1 diabetes
+type 1 diabetes mellitus
+type I diabetes
+type I diabetes mellitus
+T1 diabetes
+T1 diabetes mellitus
+T1DM
+T1 DM
+DMT1
+DM T1
+TIDM
+TI DM
+type 2 diabetes
+type 2 diabetes mellitus
+type II diabetes
+type II diabetes mellitus
+T2 diabetes
+T2 diabetes mellitus
+T2DM
+T2 DM
+DMT2
+DM T2
+TIIDM
+TII DM
+gestational diabetes
+gestational diabetes mellitus
+GDM
+type 3c diabetes
+type 3c diabetes mellitus
+type 3 c diabetes
+type 3 c diabetes mellitus
+T3c diabetes
+T3c diabetes mellitus
+T3cDM
+T3c DM
+DMT3c
+DM T3c
+maturity onset diabetes of the young
+maturity-onset diabetes of the young
+MODY
+steroid-induced diabetes
+steroid-induced diabetes mellitus
+steroid induced diabetes
+steroid induced diabetes mellitus
+glucocorticoid-induced diabetes
+glucocorticoid-induced diabetes mellitus
+glucocorticoid induced diabetes
+glucocorticoid induced diabetes mellitus
